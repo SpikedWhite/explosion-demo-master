@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ An\ explosion.\ It\ starts\ by\ expanding\ and\ then\ collapsing.\ \r\n\ The\ explosion\ will\ explode\ other\ obejcts\ that\ the\ explosion\ intersects.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=Explosion()
+comment1.text=\r\n\ Explosion\ is\ the\ constructor\ for\ our\ explosion\ objects\r\n
+comment2.params=
+comment2.target=void\ initializeImages()
+comment2.text=\r\n\ initializeImages\ fills\ the\ GreenfootImage\ array\ with\ images\ for\ our\ explosion\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ will\ cause\ the\ explosion\ to\ increase\ in\ size\ until\ it\ hits\ Max.\r\n\ then\ it\ will\ decrease\ to\ Min.\r\n\ then\ it\ will\ remove\ itself.\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=4
